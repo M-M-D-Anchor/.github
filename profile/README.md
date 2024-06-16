@@ -3,13 +3,13 @@ MCModderAnchor意为mc模组开发者的安定点，旨在建立一个健康、�
 你可以在这里发布：中文教程、翻译文档、模组项目、开源美术资源、开发工具。   
 欢迎加入我们～   
 #### 模组项目
- - [tac: zero -- 从零开始的 MC 打枪生活](https://github.com/MCModderAnchor/TACZ)   
- - [tac: legacy -- 古早版本的 tac (暂停维护)](https://github.com/MCModderAnchor/TaCG_1.16.5)
+ - [tac: zero](https://github.com/MCModderAnchor/TACZ) -- 从零开始的 MC 打枪生活
+ - [tac: legacy](https://github.com/MCModderAnchor/TaCG_1.16.5) -- 古早版本的 tac (暂停维护)
 #### 中文教程 
- - [tacwiki -- tacz 官方 wiki](https://tacwiki.mcma.club/zh/)
+ - [tacwiki](https://tacwiki.mcma.club/zh/) -- tacz 官方 wiki
 #### 翻译文档
 none   
 #### 美术资源
 none   
 #### 开发工具
-- [tacz utils -- tacz 枪包开发 BlockBench 插件](https://github.com/MCModderAnchor/tacz-utils)
+- [tacz utils](https://github.com/MCModderAnchor/tacz-utils) -- tacz 枪包开发 BlockBench 插件
