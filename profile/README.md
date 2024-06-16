@@ -5,8 +5,8 @@ MCModderAnchor意为mc模组开发者的安定点，旨在建立一个健康、�
 #### 模组项目
  - [tac: zero -- 从零开始的 MC 打枪生活](https://github.com/MCModderAnchor/TACZ)   
  - [tac: legacy -- 古早版本的 tac (暂停维护)](https://github.com/MCModderAnchor/TaCG_1.16.5)
-#### 中文教程
-none   
+#### 中文教程 
+ - [tacwiki -- tacz 枪包制作教程](https://tacwiki.mcma.club/zh/)
 #### 翻译文档
 none   
 #### 美术资源
